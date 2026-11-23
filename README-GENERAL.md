@@ -4,8 +4,10 @@
 
 ## 1. Información del proyecto
 
-- **Nombre del equipo:** [COMPLETAR NOMBRE DEL EQUIPO]
-- **Integrantes:** [COMPLETAR NOMBRES DE LOS INTEGRANTES]
+- **Nombre del equipo:** IA BOYS
+- **Integrantes:** GAMBOA CORDOVA ALESSANDRO MIJAEL
+                   GONZALES MAYHUIRE FRANCO AARON
+                   LOPEZ LUCERO CRISTOFER JARED
 - **Solución:** QARANA – Alimentación solidaria
 - **ODS abordado:** **ODS 2 – Hambre cero**
 - **Lugar de impacto:** Villa El Salvador, Lima, Perú.
@@ -321,16 +323,9 @@ Esta guía describe la instalación de una instancia propia con Google Sheets, G
 
 El archivo Excel de demostración no sustituye la configuración del backend. Para una instalación limpia, se recomienda crear una hoja de cálculo nueva y ejecutar `configurarSistema`. Si se decide importar datos de una plantilla, deben revisarse previamente los encabezados, las relaciones entre identificadores y los registros de prueba.
 
-## 11. Entregables del proyecto
-
-- [x] Repositorio de código en GitHub.
-- [x] README con descripción, ODS, tecnologías, instalación y uso.
-- [x] Arquitectura documentada: Google Sheets → Google Apps Script (API) → GitHub Pages (`index.html`).
-- [ ] Completar el nombre del equipo y los nombres de todos los integrantes.
-- [ ] Añadir el enlace público de la demo de GitHub Pages.
-- [ ] Verificar la demo funcional en vivo antes de la presentación.
-
 ---
 
 **QARANA – Cada alimento cuenta.**  
 *Conectar corazones y compartir alimentos.*
+
+DIOS LES BENDIGA---- HASTA LA PROXIMA---- FILIPENSES 3:14
