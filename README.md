@@ -1,2 +1,0 @@
-# QARANA.2
-UA
